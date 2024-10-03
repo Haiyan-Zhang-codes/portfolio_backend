@@ -1,0 +1,56 @@
+{
+   
+        "yourName": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "technicalSkills": {
+            "en": "JavaScript",
+            "fr": "JavaScript"
+        },
+        "softSkills": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "education": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "workExperience": {
+            "eCommerce": {
+                "en": "Haiyan Zhang",
+                "fr": "Haiyan Zhang"
+            },
+            "developer": {
+                "en": "Haiyan Zhang",
+                "fr": "Haiyan Zhang"
+            },
+        "dataAnalysis": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        }
+        },
+        "whoYouAre": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "strength":{
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "weakness": {
+            "en": "Haiyan Zhang",
+            "fr": "Haiyan Zhang"
+        },
+        "project": {
+            "webProject": {
+                "en": "Haiyan Zhang",
+                "fr": "Haiyan Zhang"
+            },
+            "dataAnalysis": {
+                "en": "Haiyan Zhang",
+                "fr": "Haiyan Zhang"
+            }
+        }
+    
+}
